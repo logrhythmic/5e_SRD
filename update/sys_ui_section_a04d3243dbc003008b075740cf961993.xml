@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="a04d3243dbc003008b075740cf961993" sys_domain="global" table="x_115884_5e_srd_character" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>strength</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-23 23:44:26</sys_created_on>
+            <sys_id>01bdfa43dbc003008b075740cf961961</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_115884_5e_srd_character" sys_domain="global" view="Default view">a04d3243dbc003008b075740cf961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-23 23:44:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dexterity</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-23 23:44:54</sys_created_on>
+            <sys_id>73cd3e43dbc003008b075740cf9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_115884_5e_srd_character" sys_domain="global" view="Default view">a04d3243dbc003008b075740cf961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-23 23:44:54</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>intelligence</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-23 23:45:31</sys_created_on>
+            <sys_id>a0fdbe43dbc003008b075740cf96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_115884_5e_srd_character" sys_domain="global" view="Default view">a04d3243dbc003008b075740cf961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-23 23:45:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>wisdom</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-23 23:49:21</sys_created_on>
+            <sys_id>34def243dbc003008b075740cf9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_115884_5e_srd_character" sys_domain="global" view="Default view">a04d3243dbc003008b075740cf961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-23 23:49:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>charisma</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-23 23:49:38</sys_created_on>
+            <sys_id>89eefe43dbc003008b075740cf961987</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_115884_5e_srd_character" sys_domain="global" view="Default view">a04d3243dbc003008b075740cf961993</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-23 23:49:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_115884_5e_srd_character</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-23 23:42:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a04d3243dbc003008b075740cf961993</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_115884_5e_srd_character</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="5e SRD" source="x_115884_5e_srd">8949e287db8003008b075740cf961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="5e SRD">8949e287db8003008b075740cf961995</sys_scope>
+            <sys_update_name>sys_ui_section_a04d3243dbc003008b075740cf961993</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-23 23:42:30</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

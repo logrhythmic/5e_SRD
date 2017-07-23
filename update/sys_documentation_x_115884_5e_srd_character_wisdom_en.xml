@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="wisdom" label="Wisdom" language="en" table="x_115884_5e_srd_character">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>wisdom</element>
+            <help/>
+            <hint/>
+            <label>Wisdom</label>
+            <language>en</language>
+            <name>x_115884_5e_srd_character</name>
+            <plural>Wisdoms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-23 23:49:21</sys_created_on>
+            <sys_id>78def243dbc003008b075740cf9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Wisdom</sys_name>
+            <sys_package display_value="5e SRD" source="x_115884_5e_srd">8949e287db8003008b075740cf961995</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="5e SRD">8949e287db8003008b075740cf961995</sys_scope>
+            <sys_update_name>sys_documentation_x_115884_5e_srd_character_wisdom_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-23 23:49:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

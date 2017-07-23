@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Character" max_length="40" name="x_115884_5e_srd_character" type="collection">
+        <element label="Charisma" max_length="40" name="charisma" type="integer"/>
+        <element label="Dexterity" max_length="40" name="dexterity" type="integer"/>
+        <element label="Intelligence" max_length="40" name="intelligence" type="integer"/>
+        <element label="Strength" max_length="40" name="strength" type="integer"/>
+        <element label="Wisdom" max_length="40" name="wisdom" type="integer"/>
+    </element>
+</database>
